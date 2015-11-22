@@ -9,11 +9,11 @@ image:
   credit:
   creditlink:
 ---
-*I am 20 years old.
-*I created my first “business” when I was 12.
-*I [founded a company](http://www.severnaparkvoice.com/business/sphs-grad-zach-shefska-launches-nutrition-supplement-company) at the University of Pittsburgh in 2013.
-*I placed third in a [University wide start-up competition](http://www.innovation.pitt.edu/blog/pitts-1st-annual-student-startup-competition) in 2014.
-*I have applied to [AlphaLab](http://alphalab.org/), and most recently the [YCombinator Fellowship](http://shefska.com/yc-fellowship-application-future-employee-benefits/).
+* I am 20 years old.
+* I created my first “business” when I was 12.
+* I [founded a company](http://www.severnaparkvoice.com/business/sphs-grad-zach-shefska-launches-nutrition-supplement-company) at the University of Pittsburgh in 2013.
+* I placed third in a [University wide start-up competition](http://www.innovation.pitt.edu/blog/pitts-1st-annual-student-startup-competition) in 2014.
+* I have applied to [AlphaLab](http://alphalab.org/), and most recently the [YCombinator Fellowship](http://shefska.com/yc-fellowship-application-future-employee-benefits/).
 
 ## My Story:
 
