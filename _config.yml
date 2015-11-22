@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Zach Shefska
 locale:           en_US
 url:
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Zach Shefska
+  avatar: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAMKAAAAJDE1MGNhNmRiLTdlMDctNDA2MS05NjgxLWY2NjJiMzc4ZTEwMw.jpg
+  bio: "hi dad"
+  email: zachshef77@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: shefska
+  facebook: zach.shefska
   google:
     plus: #username
     analytics:
@@ -40,11 +40,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: zachs77
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: zachshefska
   xing: #username
-  instagram: #username
+  instagram: shefska
   lastfm: #username
   tumblr: #username
   pinterest: #username
