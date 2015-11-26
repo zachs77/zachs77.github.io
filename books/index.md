@@ -1,12 +1,8 @@
 ---
-layout: page
-title: About Zach Shefska
-tags: [about, Zach Shefska]
+layout: post-index
+title: Currently Reading
+tags: [books, Zach Shefska]
 modified: 2014-08-08T20:53:07.573882-04:00
-image:
-  feature: about.jpg
-  credit:
-  creditlink:
 ---
 * I am 20 years old.
 * I created my first “business” when I was 12.

@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Recent Posts
+excerpt: "Recent posts from Zach Shefska on entrepreneurship, web development and weight training."
 ---

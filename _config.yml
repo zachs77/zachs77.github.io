@@ -27,14 +27,14 @@ kramdown:
 # Site owner
 owner:
   name: Zach Shefska
-  avatar: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAMKAAAAJDE1MGNhNmRiLTdlMDctNDA2MS05NjgxLWY2NjJiMzc4ZTEwMw.jpg
+  avatar: head_shot.jpg
   bio: "20 year old entrepreneur, web developer, and workout enthusiast from Annapolis, MD."
   email: zach@shefska.com
   disqus-shortname: zachshefska
   twitter: shefska
   facebook: zach.shefska
   google:
-    plus: #username
+    plus: zachshefska
     analytics:
     verify:
     ad-client:
